@@ -1,0 +1,58 @@
+export const projects = [
+  {
+    title: "Driver Monitoring System",
+    description: "Real-time drowsiness and phone detection using YOLOv8 and MediaPipe with React Native frontend.",
+    stack: ["YOLOv8", "MediaPipe", "Flask", "React Native", "Python"],
+    link: "https://github.com/Aryan8911/driver-monitoring",
+    demo: null,
+  },
+  {
+    title: "Disease Prediction Model",
+    description: "BioBERT + LSTM based medical condition classifier achieving 97% accuracy on 1,000+ records.",
+    stack: ["BioBERT", "LSTM", "TensorFlow", "Keras", "Python"],
+    link: "https://github.com/Aryan8911/Disease-Prediction",
+    demo: null,
+  },
+  {
+    title: "Image Captioning Bot",
+    description: "ResNet-LSTM captioning model trained on Flickr8K with beam search optimization.",
+    stack: ["ResNet", "LSTM", "TensorFlow", "Computer Vision", "Python"],
+    link: "https://github.com/Aryan8911/Image_caption_generation",
+    demo: null,
+  },
+  {
+    title: "Hospital Management System",
+    description: "Full-stack responsive hospital website with SQL backend and JWT-based authentication.",
+    stack: ["HTML", "CSS", "JavaScript", "SQL", "JWT", "Node.js"],
+    link: "https://github.com/Aryan8911/hospital-management",
+    demo: null,
+  },
+  {
+    title: "Autonomous Line-Following Robot",
+    description: "PID-based robot using Arduino and ZigBee with 95% obstacle detection accuracy.",
+    stack: ["Arduino", "C++", "PID Control", "ZigBee", "Embedded Systems"],
+    link: "https://github.com/Aryan8911/line-following-robot",
+    demo: null,
+  },
+  {
+    title: "Lyrics Generator",
+    description: "Text generator using n-gram modeling and Monte Carlo sampling with 70% coherence.",
+    stack: ["Python", "NLTK", "Markov Chains", "NLP", "Machine Learning"],
+    link: "https://github.com/Aryan8911/lyrics-generator",
+    demo: null,
+  },
+  {
+    title: "Rock-Paper-Scissors Predictor",
+    description: "Neural network-based game agent predicting player moves with 85% accuracy using MLP.",
+    stack: ["TensorFlow", "MLP", "Python", "Game AI", "Neural Networks"],
+    link: "https://github.com/Aryan8911/Rock_Paper_Scissor_MLP",
+    demo: null,
+  },
+  {
+    title: "Face Recognition System",
+    description: "Lightweight face recognition using Eigenfaces and LBPH achieving 92% accuracy.",
+    stack: ["OpenCV", "Python", "Computer Vision", "Eigenfaces", "LBPH"],
+    link: "https://github.com/Aryan8911/Face_recognition",
+    demo: null,
+  },
+]
