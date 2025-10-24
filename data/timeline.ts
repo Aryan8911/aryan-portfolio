@@ -1,6 +1,14 @@
 export const timeline = [
   {
     year: "2025 - Present",
+    role: "Master's in Computing (Data Science)",
+    company: "Technological University Dublin",
+    location: "Dublin, Ireland",
+    details:
+      "Specializing in Data Science, AI/ML, embedded systems, and computer vision. Active in research projects and technical competitions.",
+  },
+  {
+    year: "Jan 2025 - AUG 2025",
     role: "AI-tech Intern",
     company: "INTUTE-AI Technologies",
     location: "Noida, India",

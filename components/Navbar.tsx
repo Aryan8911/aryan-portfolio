@@ -68,17 +68,17 @@ export default function Navbar() {
               )
             })}
 
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={() =>
-                window.open("https://drive.google.com/file/d/1P_l9HG2pJ61O_CdIAIiD3T_QIdy47pkx/view", "_blank")
-              }
-              className="flex items-center gap-2 glass border-white/20 text-white hover:bg-white/10 text-sm btn-premium glow"
-            >
-              <Download className="w-4 h-4" />
-              View Resume
-            </Button>
+           <Button
+  variant="outline"
+  size="sm"
+  onClick={() =>
+    window.open("https://drive.google.com/file/d/1HazLt7DsEULpIX4svKOQ_sYoigGdt-b2/view?usp=sharing", "_blank")
+  }
+  className="flex items-center gap-2 glass border-white/20 text-white hover:bg-white/10 text-sm btn-premium glow"
+>
+  <Download className="w-4 h-4" />
+  View Resume
+</Button>
 
             <Button
               variant="ghost"
